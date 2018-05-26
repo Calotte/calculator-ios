@@ -1,4 +1,4 @@
-Using storyboards for multi-scenario IOS application development.
+Using storyboards for multi-scenario IOS application development,
 Implement complex calculator application under IOS, Utilize the navigation controller 
 to realize advanced calculation functions and complete all advanced calculator functions.
 Realize the physique calculation application under IOS. Use the following formula to 
